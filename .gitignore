@@ -1,0 +1,4 @@
+couchdb/data/
+SSL/nginx/cert.pem
+SSL/nginx/key.pem
+**/.env
